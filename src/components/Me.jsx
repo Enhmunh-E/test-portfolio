@@ -1,6 +1,7 @@
 import React from "react";
 import { Box, Text, Stack, Heading, Image } from "@chakra-ui/react";
 import Profile from "../assets/profile.png";
+
 export const Me = () => {
   return (
     <Stack
@@ -24,4 +25,5 @@ export const Me = () => {
     </Stack>
   );
 };
+
 export default Me;

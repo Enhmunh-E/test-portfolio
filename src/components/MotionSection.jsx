@@ -12,4 +12,5 @@ export const MotionSection = ({ children, delay = 0 }) => {
     </motion.div>
   );
 };
+
 export default MotionSection;

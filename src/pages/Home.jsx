@@ -1,5 +1,5 @@
-import { Box, Container, Text, useColorModeValue } from "@chakra-ui/react";
 import React from "react";
+import { Box, Container, Text, useColorModeValue } from "@chakra-ui/react";
 import { Banner, MotionSection, Work, Bio, Love, Me } from "../components";
 
 export const Home = () => {

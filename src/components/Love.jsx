@@ -1,5 +1,6 @@
-import { Box, useColorModeValue, Heading } from "@chakra-ui/react";
 import React from "react";
+import { Box, useColorModeValue, Heading } from "@chakra-ui/react";
+
 export const Love = () => {
   return (
     <Box px={5}>
